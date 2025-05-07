@@ -1,0 +1,38 @@
+{
+    "DETECTION_SIZE": 256,
+    "BASE_SMOOTHING": 0.2,
+    "SIZE_SMOOTHING_FACTOR": 0.5,
+    "DISTANCE_SMOOTHING_FACTOR": 0.3,
+    "VELOCITY_SMOOTHING_FACTOR": 0.2,
+    "VERTICAL_OFFSET": 30,
+    "MIN_TARGET_SIZE": 50,
+    "MAX_TARGET_AREA": 2000,
+    "TARGET_LOCK_TIME": 0.3,
+    "LOWER_RED1": [
+        0,
+        150,
+        150
+    ],
+    "UPPER_RED1": [
+        10,
+        255,
+        255
+    ],
+    "LOWER_RED2": [
+        160,
+        150,
+        150
+    ],
+    "UPPER_RED2": [
+        180,
+        255,
+        255
+    ],
+    "CENTER_WEIGHT": 0.4,
+    "SIZE_WEIGHT": 0.3,
+    "CURRENT_TARGET_WEIGHT": 0.3,
+    "PREDICTION_ENABLED": true,
+    "PREDICTION_TIME": 0.1,
+    "MAX_PREDICTION_DISTANCE": 100,
+    "FPS_LIMIT": 60
+}

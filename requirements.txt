@@ -1,0 +1,11 @@
+numpy>=1.21.0
+opencv-python>=4.5.3
+mss>=6.1.0
+pywin32>=300
+pyautogui>=0.9.53
+pytest>=7.0.0
+pytest-cov>=3.0.0
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
+python-dotenv>=0.19.0 

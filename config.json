@@ -1,0 +1,38 @@
+{
+    "sensitivity": {
+        "base": 1.0,
+        "ads_multiplier": 0.8,
+        "scope_multiplier": 0.5
+    },
+    "target_detection": {
+        "confidence_threshold": 0.7,
+        "min_target_size": 20,
+        "max_target_distance": 1000,
+        "detection_frequency": 60
+    },
+    "aim_assistance": {
+        "smoothing_factor": 0.5,
+        "prediction_time": 0.1,
+        "max_angle_correction": 45,
+        "enable_prediction": true
+    },
+    "performance": {
+        "use_gpu": true,
+        "processing_resolution": 1.0,
+        "frame_skip": 0,
+        "debug_mode": false
+    },
+    "controls": {
+        "toggle_key": "F1",
+        "settings_key": "F2",
+        "profile_key": "F3",
+        "exit_key": "F4"
+    },
+    "profiles": {
+        "default": {
+            "name": "Default",
+            "sensitivity": 1.0,
+            "smoothing": 0.5
+        }
+    }
+} 
