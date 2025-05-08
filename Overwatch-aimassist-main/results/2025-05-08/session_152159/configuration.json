@@ -1,0 +1,24 @@
+{
+    "timestamp": 1746703319.4861667,
+    "sensitivity": 1.0,
+    "target_detection": {
+        "confidence_threshold": 0.7,
+        "min_target_size": 20,
+        "max_target_distance": 1000
+    },
+    "aim_assistance": {
+        "smoothing_factor": 0.5,
+        "prediction_time": 0.1,
+        "max_angle_correction": 45
+    },
+    "performance": {
+        "fps_limit": 60,
+        "debug_mode": false
+    },
+    "controls": {
+        "activation_key": "alt",
+        "toggle_debug_key": "d",
+        "exit_key": "q"
+    },
+    "active_profile": "default"
+}

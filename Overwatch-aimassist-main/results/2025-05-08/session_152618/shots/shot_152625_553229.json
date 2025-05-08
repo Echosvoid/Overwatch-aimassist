@@ -1,0 +1,12 @@
+{
+    "timestamp": 1746703585.534924,
+    "target_position": {
+        "x": 170,
+        "y": 60
+    },
+    "crosshair_offset": {
+        "x": 42,
+        "y": -39
+    },
+    "target_area": 87.5
+}

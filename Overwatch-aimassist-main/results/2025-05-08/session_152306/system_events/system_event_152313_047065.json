@@ -1,0 +1,15 @@
+{
+    "timestamp": 1746703393.0471153,
+    "event_type": "error",
+    "event_data": "name 'calculate_confidence' is not defined",
+    "system_state": {
+        "last_target_pos": [
+            0,
+            0
+        ],
+        "last_update_time": 0,
+        "last_target_time": 0
+    },
+    "error_code": null,
+    "error_message": "name 'calculate_confidence' is not defined"
+}

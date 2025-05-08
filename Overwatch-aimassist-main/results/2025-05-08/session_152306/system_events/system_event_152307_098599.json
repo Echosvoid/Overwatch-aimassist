@@ -1,0 +1,15 @@
+{
+    "timestamp": 1746703387.0986505,
+    "event_type": "error",
+    "event_data": "name 'get_memory_usage' is not defined",
+    "system_state": {
+        "last_target_pos": [
+            0,
+            0
+        ],
+        "last_update_time": 0,
+        "last_target_time": 0
+    },
+    "error_code": null,
+    "error_message": "name 'get_memory_usage' is not defined"
+}

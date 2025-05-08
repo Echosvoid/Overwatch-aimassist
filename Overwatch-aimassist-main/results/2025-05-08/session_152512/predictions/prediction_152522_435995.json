@@ -1,0 +1,15 @@
+{
+    "timestamp": 1746703522.4177704,
+    "current_position": {
+        "x": 123,
+        "y": 113
+    },
+    "predicted_position": {
+        "x": 122,
+        "y": 113
+    },
+    "velocity": {
+        "x": -0.19845688480618653,
+        "y": 0.0
+    }
+}

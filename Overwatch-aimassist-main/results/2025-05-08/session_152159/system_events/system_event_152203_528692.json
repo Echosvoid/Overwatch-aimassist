@@ -1,0 +1,15 @@
+{
+    "timestamp": 1746703323.5287337,
+    "event_type": "error",
+    "event_data": "type object 'Config' has no attribute 'MIN_TARGET_SIZE'",
+    "system_state": {
+        "last_target_pos": [
+            0,
+            0
+        ],
+        "last_update_time": 1746703319.4842503,
+        "last_target_time": 0
+    },
+    "error_code": null,
+    "error_message": "type object 'Config' has no attribute 'MIN_TARGET_SIZE'"
+}
